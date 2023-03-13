@@ -15,7 +15,7 @@
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   -->
   <img align="right" alt="Artu-Dev-Pic" height="200" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1473879_GchZUn3Y.png">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1473879_GchZUn3Y.png">
 </div>
 
 ##
