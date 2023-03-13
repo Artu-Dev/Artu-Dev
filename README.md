@@ -1,8 +1,8 @@
 ## Olá, Sou o Artur Reis 👋
 <div>
   <a href="https://arturdev.netlify.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artu-Dev&show_icons=true&theme=ocean_dark" /><br>
   <img align="right" alt="Artu-Dev-Pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1473879_GchZUn3Y.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artu-Dev&show_icons=true&theme=ocean_dark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artu-Dev&theme=ocean_dark&layout=compact"/>
 </div>
 
