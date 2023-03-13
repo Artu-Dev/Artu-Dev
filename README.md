@@ -14,6 +14,7 @@
   <!--
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   -->
+  <img src="https://picrew.me/share?cd=R6fzDX6eIl"/>
 </div>
 
 ##
