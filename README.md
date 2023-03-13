@@ -14,7 +14,7 @@
   <!--
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   -->
-  <img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202303/1473879_GchZUn3Y.png" style="border-radius: 10px;"/>
+  <img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202303/1473879_GchZUn3Y.png" style="border-radius:50px;"/>
 </div>
 
 ##
